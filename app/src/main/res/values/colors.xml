@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff484b</color>
+    <color name="colorPrimaryDark">#ff484b</color>
+    <color name="colorAccent">#FFE0E0E0</color>
+    <color name="appbartColor">#FFFF5252</color>
+    <color name="grey">#757575</color>
+    <color name="progressColor">#ffa000</color>
+</resources>

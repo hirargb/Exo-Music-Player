@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OlaPlayStudios</string>
+    <string name="action_add_favourite">Add as favorite</string>
+    <string name="action_add_to_playlist">Add to playlist</string>
+    <string name="action_play_next">Play next</string>
+    <string name="search_hint">Search by song name</string>
+    <string name="favorite">Favorite</string>
+    <string name="browse_title">Browse by Title</string>
+    <string name="browse_artist">Browse by Artist</string>
+    <string name="search">Search</string>
+</resources>
